@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<substance UN="1051" CAS="74-90-8">
+  <nazev_diakritika>KYANOVODÍK, STABILIZOVANÝ, obsahující méně než 3 % vody</nazev_diakritika>
+  <indexove_cislo>006-006-00-X</indexove_cislo>
+  <ES>200-821-6</ES>
+  <HAZCHEM>2WE</HAZCHEM>
+  <sumarni_vzorec>CHN</sumarni_vzorec>
+  <funkcni_vzorec>CHN</funkcni_vzorec>
+  <mezinarodni_identifikace>hydrogen cyanide|hydrocyanic acid</mezinarodni_identifikace>
+  <klas_tridy_nebezpecnosti>Flam. Liq. 1|Acute Tox. 2|Aquatic Acute 1|Aquatic Chronic 1</klas_tridy_nebezpecnosti>
+  <klas_h_vety>H224|H330|H400|H410</klas_h_vety>
+  <oznac_tridy_nebezpecnosti>GHS02|GHS06|GHS09</oznac_tridy_nebezpecnosti>
+  <oznaceni>F+|T+|N</oznaceni>
+  <p_vety_odstranovani>P501</p_vety_odstranovani>
+  <p_vety_reakce>P303 + P361 + P353|P370 + P378|P304 + P340|P310|P320|P391</p_vety_reakce>
+  <p_vety_skladovani>P403 + P235|P403 + P233|P405</p_vety_skladovani>
+  <p_vety_prevence>P210|P233|P240|P241|P242|P243|P280|P260|P271|P284|P273</p_vety_prevence>
+  <signalni_slovo>Nebezpečí</signalni_slovo>
+  <bod_tani>-13.4</bod_tani>
+  <bod_varu>26</bod_varu>
+  <molarni_hmotnost>27.0256</molarni_hmotnost>
+  <henryho_konstanta>0,000133 (při 25°C)</henryho_konstanta>
+  <dolni_mez_vybusnosti>0.056</dolni_mez_vybusnosti>
+  <horni_mez_vybusnosti>0.4</horni_mez_vybusnosti>
+  <rozdelovaci_koeficient>-0.25</rozdelovaci_koeficient>
+  <rozpustnost>1000000.0 (ve vodě při 25°C)</rozpustnost>
+  <tenze_par>98.93 kPa (742.0 mm Hg) při 25°C</tenze_par>
+  <ph>1000000.0 (ve vodě při 25°C)</ph>
+  <faktor_prepoctu_mgm3_ppm>0.905</faktor_prepoctu_mgm3_ppm>
+  <erg2012_guide>ERG111</erg2012_guide>
+  <erpg_1>(není k dispozici)</erpg_1>
+  <erpg_2>10 ppm</erpg_2>
+  <erpg_3>25 ppm</erpg_3>
+  <hpk_10>50</hpk_10>
+  <hpk_60>25</hpk_60>
+  <hau_20>25</hau_20>
+  <hau_120>10</hau_120>
+  <limitni_mnozstvi_1>50</limitni_mnozstvi_1>
+  <limitni_mnozstvi_2>200</limitni_mnozstvi_2>
+  <PEL>3</PEL>
+  <NPK_P>10</NPK_P>
+  <IDLH>50 ppm [Unch]</IDLH>
+  <exp_limity_pozn>D</exp_limity_pozn>
+  <aegl1_10>2.5</aegl1_10>
+  <aegl1_30>2.5</aegl1_30>
+  <aegl1_60>5</aegl1_60>
+  <aegl1_240>1.3</aegl1_240>
+  <aegl1_480>1</aegl1_480>
+  <aegl2_10>17</aegl2_10>
+  <aegl2_30>10</aegl2_30>
+  <aegl2_60>7.1</aegl2_60>
+  <aegl2_240>3.5</aegl2_240>
+  <aegl2_480>2.5</aegl2_480>
+  <aegl3_10>27</aegl3_10>
+  <aegl3_30>21</aegl3_30>
+  <aegl3_60>15</aegl3_60>
+  <aegl3_240>8.6</aegl3_240>
+  <aegl3_480>6.6</aegl3_480>
+  <aegl_jednotka>ppm</aegl_jednotka>
+  <pravni_predpisy>1272/2008/ES_1297/2014|361/2007 Sb.|224/2015 Sb.|208/2008</pravni_predpisy>
+  <prvni_pomoc_pokyny>ZDRAVOTNÍ OHROŽENÍ Kyselina kyanovodíková ředěná nebo jako plyn je velmi silný jed. Přerušuje přívod kyslíku a oxidační procesy v buňkách. Vdechnutí vysokých koncentrací způsobuje bezprostředně smrt. PŘÍZNAKY Při nízkých koncentracích: škrábání v krku, dráždění sliznic hrtanu a očí, bolesti hlavy, silná nevolnost, zvracení, pocit strachu, bušení srdce, dušnost. Slabost paží a dolních končetin. Při těžké otravě: Okamžité bezvědomí, koma, křeče, zástava dechu, zástava srdce. Při krátkodobém působení: 0,3% ohrožuje bezprostředně život. 0,01% po dobu 30 až 60 minut jsou zdraví škodlivé. POKYNY PRO OŠETŘENÍ Při těžké otravě: Pro rychlé terapeutické vytvoření MetHb podáváme okamžitě 3 mg/kg 4-dimethylaminophenol-HCl intravenosně (4-DMAP; Dr. Franz Köhler Chemie GmbH, 6146 Alsbach-Hähnlein). Pak okamžitě vstříkneme 10 ml 40% roztoku natrium thiosulfátu i.v. (Devenan Spofa), během hodiny je možné několikrát opakovat, nebo až 100 ml 10% roztoku natriumthiosulfátu i.v. (Natriumthiosulfat 10% Köhler nebo S-hydril, Laves, Arzneimittel GmbH, 3003 Ronnenberg/Hannover). Počáteční dávka je 100 mg/kg. Doporučuje se až 500 mg/kg, ale jen výjimečně, bezpečnost této vysoké dávky není zaručena. Dodatečná injekce 4-DMAP po 2 až 4 hodinách je možná podle koncentrace MetHb. Není-li 4-DMAP k dispozici, podat 10-30 ml 10% roztoku NaNO3 (Natrium nitrosum Spofa) velmi pomalu i.v. (riziko hypotenze). Potom se rovněž podává Devenan (Na thiosulfát) v množství 10 ml. Podání Natrium nitrosum a následně Devenanu je možné opakovat několikrát během hodiny, dle stavu nemocného. Případný nitritový kolaps lze zvládnout podáním 1 ml adrenalinu (1:1000) s.c., popř. 1 ml isoprenalinu, nejlépe v infusi. Natrium nitrosum je méně vhodné (nižší tvorba MetHb, hypotenze) než 4-DMAP. V žádném případě nemísíme v téže stříkačce činidlo pro MetHb s roztokem natriumthiosulfátu! Kobalt jako komplexotvorné činidlo s HCN je použitelný ve formě Co2-EDTA (Kelocyanor, Laroche Navarron, 92800 Puteaux/Francie, 600 mg i.v.) následovaného roztokem Na2S203 i.v. Optimální antidotum hydroxocobalamin (vitamín B12a) není v potřebném množství (12 až 15 g) většinou k dispozici. Při lehké otravě: (Když je komunikace s pacientem možná): přidáváme roztok natriumthiosulfátu (Devenan) výše popsaným způsobem i.v. Lokální podráždění léčíme symptomaticky, rovněž tak projevy rozrušení, případně ochrnutí. Pozor na poškození očí!</prvni_pomoc_pokyny>
+  <haseni_pokyny>Hasební prostředky: - velký požár: - vodní mlha, příp. roztříštěné vodní proudy - menší požár: - voda Opatření v místě havárie: - nádrž s látkou chladit vodou a podle možnosti odstranit z nebezpečné zóny - úplná ochrana - ochranný oblek, dýchací přístroj - látka může prudce reagovat - zachytit, neutralizovat, likvidovat - zjistit možnost evakuace - látka může vážně ohrozit okolí Pozor! Látka tvoří se vzduchem výbušnou a jedovatou směs. REAKTIVITA: - reaguje s bázemi - louhy, aminy - při zvláštních podmínkách se může ve styku s alkaliemi explozivně rozkládat - reakce s oxidačními činidly mohou vést k těžkým explozím - prudce reaguje s aldehydy ZNEŠKODNĚNÍ: * je potenciálním kandidátem pro likvidaci spalováním v rotačních pecích při teplotách 820-1600°C * je vhodný pro spalování na fluidním loži při teplotách 820-980°C * rotační pec, spalování v kotli jsou vhodné technologie pro likvidaci kyanovodíku * jiné metody jsou vhodné pro detoxikaci vodných roztoků kyanovodíku nebo kyanidů. Podle koncentrace přítomných kyanidů se nabízejí tyto možnosti: a) koncentrace kyanidů je relativně nízká - detoxikaci lze provést peroxidem vodíku nebo ozonem. Katalytickou metodu nelze vždy použít, protože dochází k otravě uhlíkatého katalyzátoru fero a ferikyanidy. b) detoxikaci lze provést oxidací chlorem nebo chlornanem sodným. Vzniká tak chlorkyan, kyanát a nakonec jsou možnými produkty amoniak, hydrogenuhličitan a oxid uhličitý s dusíkem. Tvorba kyanátu je dostatečně rychlá pouze při pH 10-11 - detoxikaci koncentrovaných roztoků kyanidů je možné provést převedením na málo toxické komplexní kyanidy jako je ferrokyanid železnatý (berlínská modř). Přídavkem síranu železnatého se vytvoří sraženina, kterou je možné odvést jako kal. Výhoda této metody je v jednoduchosti a nízké ceně. POZOR! Při úniku látky do kanalizace nebo odpadních vod nebezpečí výbuchu.</haseni_pokyny> 
+</substance>
