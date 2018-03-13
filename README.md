@@ -1,6 +1,6 @@
 # Údaje o nebezpečných látkách
 
-1. Skript v pravidelných intervalech kontroluje, zda jsou na serveru k dispozici nové soubory formátu **XLSX**.
+1. Skript v pravidelných intervalech (momentálně jednou za hodinu vždy o půl) kontroluje, zda jsou na serveru k dispozici nové soubory formátu **XLSX**.
 2. Každý soubor formátu XLSX je považován za vstupní data pro konverzi do XML.
 3. Skript *předpokládá*, že soubor je správně formátován v předem dohodnuté struktuře. Neprovádí se kontrola správnosti dat.
 4. Název souboru je *očekáván* ve formátu **XXXXX-XXX-X***.xlsx*, kde část názvu před tečkou je zpracován jako CAS číslo látky.
