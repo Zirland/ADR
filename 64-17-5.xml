@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<substance UN="1170" CAS="64-17-5">
+  <nazev_diakritika>ETHANOL</nazev_diakritika>
+  <HAZCHEM>2YE</HAZCHEM>
+  <sumarni_vzorec>C2H6O</sumarni_vzorec>
+  <funkcni_vzorec>CH3CH2OH</funkcni_vzorec>
+  <klas_tridy_nebezpecnosti>Flam. Liq. 2</klas_tridy_nebezpecnosti>
+  <oznac_tridy_nebezpecnosti>GHS02</oznac_tridy_nebezpecnosti>
+  <oznaceni>F</oznaceni>
+  <bod_tani>-114</bod_tani>
+  <hustota>0,789 g/cm3</hustota>
+  <relativni_hustota_par>1.6</relativni_hustota_par>
+  <rozpustnost>neomezená mísitelnost s vodou</rozpustnost>
+  <teplota_vzniceni>366 °C</teplota_vzniceni>
+  <vzhled>čirá kapalina</vzhled>
+  <ph>neomezená mísitelnost s vodou</ph>
+  <faktor_prepoctu_mgm3_ppm>0.531</faktor_prepoctu_mgm3_ppm>
+  <erg2012_guide>ERG127</erg2012_guide>
+</substance>
